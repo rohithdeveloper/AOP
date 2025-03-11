@@ -1,16 +1,11 @@
 Use Cases of AOP in Spring Boot
-Logging and Monitoring
-
+1.Logging and Monitoring
 Track method execution across the application.
-Security
-
+2.Security
 Apply authentication and authorization checks.
-Transaction Management
-
+3.Transaction Management
 Manage database transactions at the method level.
-Exception Handling
-
+4.Exception Handling
 Centralize exception handling logic.
-Performance Monitoring
-
+5.Performance Monitoring
 Measure execution time of methods.
